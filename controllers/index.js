@@ -3,4 +3,5 @@ module.exports = {
   getProductById: require('./getProductById'),
   createProduct: require('./createProduct'),
   updateProduct: require('./updateProduct'),
+  registerUser: require('./registerUser'),
 };
